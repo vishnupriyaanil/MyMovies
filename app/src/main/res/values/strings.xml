@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="tmdb_api_key">a97d22384f177efa384911228021b649</string>
+    <string name="select_fav_genres">Select Favorite Genres</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="movie_poster_content_description">Poster Image of %1$s</string>
+    <!-- error -->
+    <string name="error_icon_content_description">Error Icon</string>
+    <string name="fetching_movies">Fetching Movies</string>
+    <string name="unfavorite">unfavorite</string>
+    <string name="favorite">favorite</string>
+    <string name="fetching_movie_detail">Fetching Movie Detail</string>
+    <string name="back_icon_content_description">Go Back</string>
+    <string name="open_website_content_description">Open Movie Website</string>
+    <string name="duration">Duration</string>
+    <string name="duration_minutes">%1$s min</string>
+    <string name="vote_average">Vote Avg</string>
+    <string name="release_date">Release Date</string>
+    <string name="votes">Votes</string>
+    <string name="backdrop_content_description">Backdrop Image of %1$s</string>
+    <string name="select_fav_movies">Select Favorite Movies</string>
+    <string name="view_selection">View Selections</string>
+    <string name="max_selection_reached">Your max total selection of both Genres and Movies is 10</string>
+    <string name="fetching_genres">Fetching Genres</string>
+    <string name="my_genres">My Genres</string>
+    <string name="my_movies">My Movies</string>
+</resources>
